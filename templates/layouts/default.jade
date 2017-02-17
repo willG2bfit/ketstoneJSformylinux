@@ -37,7 +37,15 @@ html
 	body
 
 		//- HEADER
+		//这里先把所有的超链接都定向到主页
 		#header
+			ul.nav.nav-pills
+				li.active(role="presentation")
+					a(href="#") 首页
+				li(role="presentation")
+					a(href="#") 闲语
+				li(role="presentation")
+					a(href="#") IT
 
 		//- Customise your site's navigation by changing the navLinks Array in ./routes/middleware.js
 		//- ... or completely change this header to suit your design.
