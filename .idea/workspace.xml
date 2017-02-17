@@ -23,8 +23,8 @@
       <file leaf-file-name="default.jade" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="541">
+              <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -212,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487334130967</updated>
-      <workItem from="1487334132318" duration="1895000" />
+      <workItem from="1487334132318" duration="2162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1895000" />
+    <option name="totallyTimeSpent" value="2162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -278,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        <state relative-caret-position="541">
+          <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
           <folding />
         </state>
       </provider>
